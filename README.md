@@ -31,7 +31,6 @@ Its loss curves are shown in the following image:
 - scikit-learn~=1.1.1
 
 ```python
-import matplotlib.pyplot as plt
 from keras.models import load_model
 from Utils.data_prepair import stack_data
 import matplotlib.pyplot as plt
